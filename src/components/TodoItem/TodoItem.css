@@ -1,0 +1,15 @@
+.todo-item{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.delete-button{
+    border:none;
+    width:50px;
+    height: 20px;
+    background:red;
+    color:white;
+    font-weight: bold;
+}
